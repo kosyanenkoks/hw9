@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df94c6fe-3f70-4d3e-b6bd-6b32a67b4010" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/task-9.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images.json" beforeDir="false" afterPath="$PROJECT_DIR$/images.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-8.js" beforeDir="false" />
-    </list>
+    <list default="true" id="df94c6fe-3f70-4d3e-b6bd-6b32a67b4010" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/task-9.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="21" selection-end-line="46" selection-end-column="26" />
+            <state relative-caret-position="396">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -145,12 +140,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550516699288</updated>
-      <workItem from="1550516702122" duration="7431000" />
+      <workItem from="1550516702122" duration="7769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7431000" />
+    <option name="totallyTimeSpent" value="7769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="0" width="1002" height="1167" extended-state="0" />
@@ -193,8 +188,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/task-9.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="21" selection-end-line="46" selection-end-column="26" />
+        <state relative-caret-position="396">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
